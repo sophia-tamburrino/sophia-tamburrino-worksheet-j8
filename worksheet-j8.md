@@ -10,7 +10,7 @@ A functional requirement is what the user wants the program to do. A non-functio
 * When you go to the camera button, the phone camera turns on.
 
 ## #4 - Draw a use case diagram for Instagram.com with at least three uses cases shown, where at least one use case extends another, and there are two actors.
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![j8](j8.png)
 
 ## #5 - Why has software engineering evolved to often embrace agile development models over waterfall ones?
 
