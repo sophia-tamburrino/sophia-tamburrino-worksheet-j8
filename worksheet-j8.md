@@ -13,5 +13,7 @@ A functional requirement is what the user wants the program to do. A non-functio
 ![j8](j8.png)
 
 ## #5 - Why has software engineering evolved to often embrace agile development models over waterfall ones?
+A waterfall method is planning out development for the whole project, while an agile development plans it out piece by piece over time. It is best to embrace agile development as we won't always know the needs of the client/user until we hit a certain point in development.
 
 ## #6 - Draw a diagram where there are at least two interconnected paths: a critical path, and at least one non-critical path.
+![j8-2](j8-2.png)
